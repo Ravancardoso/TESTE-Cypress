@@ -1,0 +1,19 @@
+{
+  "name": "teste-cypress-dio",
+  "version": "1.0.0",
+  "description": "Teste tecnico ",
+  "main": "vitest.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravancardoso/TESTE-Cypress.git"
+  },
+  "author": "Ravan cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravancardoso/TESTE-Cypress/issues"
+  },
+  "homepage": "https://github.com/Ravancardoso/TESTE-Cypress#readme"
+}
